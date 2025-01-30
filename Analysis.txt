@@ -1,0 +1,5 @@
+Three Observations: 
+----------------------------------
+1: The Drug Regimen Capomulin had the most data recorded.
+2: Average Tumor volume showed a correlation with the weight of mice. The larger the mouse, the larger the tumor.
+3: Tumor Volume seemed to decrease over Time for Mouse "s185".
